@@ -85,7 +85,7 @@
             this.폼보이기ToolStripMenuItem,
             this.종료ToolStripMenuItem});
             this.cmsMenu.Name = "cmsMenu";
-            this.cmsMenu.Size = new System.Drawing.Size(181, 70);
+            this.cmsMenu.Size = new System.Drawing.Size(127, 48);
             // 
             // 폼보이기ToolStripMenuItem
             // 
